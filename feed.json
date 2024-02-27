@@ -1,0 +1,9 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Laravel",
+    "description": "Laravel - это фреймворк для веб-приложений на PHP с утонченным синтаксисом, который освобождает вас от мелочей. Русскоязычное сообщество и документация.",
+    "home_page_url": "https://laravel.su/",
+    "feed_url": "https://laravel.su/rss/feed",
+    "language": "ru-RU",
+    "items": []
+}
