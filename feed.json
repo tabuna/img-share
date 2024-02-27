@@ -5,5 +5,17 @@
     "home_page_url": "https://laravel.su/",
     "feed_url": "https://laravel.su/rss/feed",
     "language": "ru-RU",
-    "items": []
+    "items": [
+        {
+            "id": "https://laravel.su/p/nastroika-https-v-laravel",
+            "title": "Настройка HTTPS в Laravel",
+            "url": "https://laravel.su/p/nastroika-https-v-laravel",
+            "content_html": "",
+            "summary": "",
+            "date_published": "2024-02-27T05:22:45+03:00",
+            "date_modified": "2024-02-27T05:22:45+03:00",
+            "image": "https://laravel.su/cover.jpg?text=%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0%20HTTPS%20%D0%B2%20Laravel",
+            "tags": []
+        }
+    ]
 }
